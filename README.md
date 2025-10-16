@@ -1,3 +1,7 @@
+# Please refer this github: https://github.com/hardikbharvada/cognitivetrust-vscode-extension.git
+
+
+
 # hardik-extension README
 
 This is the README for your extension "hardik-extension". After writing up a brief description, we recommend including the following sections.
